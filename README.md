@@ -1,0 +1,1 @@
+Config server is created and the config is links to the git repository of the client config
